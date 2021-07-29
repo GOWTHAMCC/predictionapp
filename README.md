@@ -1,1 +1,1 @@
-# stockpriceprediction
+# predictionapp
